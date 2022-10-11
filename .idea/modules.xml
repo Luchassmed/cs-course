@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigI/BigI.iml" filepath="$PROJECT_DIR$/BigI/BigI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opfriskning/Opfriskning.iml" filepath="$PROJECT_DIR$/Opfriskning/Opfriskning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RationalNumber/RationalNumber.iml" filepath="$PROJECT_DIR$/RationalNumber/RationalNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SD.iml" filepath="$PROJECT_DIR$/SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animalInheritance/animalInheritance.iml" filepath="$PROJECT_DIR$/animalInheritance/animalInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortQueue/shortQueue.iml" filepath="$PROJECT_DIR$/shortQueue/shortQueue.iml" />
+    </modules>
+  </component>
+</project>
