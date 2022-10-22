@@ -1,0 +1,65 @@
+* {
+  margin: 0px; /* Har sat til 0px, vi skal stadig bruge box-sizing: borderbox */
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #4267B2;
+    text-align: center;
+}
+
+.background {
+    background-color: #4267B2;
+    text-align: center;
+}
+
+h1 {
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size: 2.5em;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+h2{
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size: 2em;
+  color: white;
+}
+
+ h3, h4, h5, h6, {
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size: 18px;
+}
+
+p {
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size: 12px;
+}
+
+.blog-container{
+  margin: auto;
+  width: 35%;
+  padding: 15px;
+  border: 2px solid #5D6063;
+  background-color: #d3d3d3;
+}
+
+.postimg{
+  border-radius: 30%;
+  width: auto;
+  height: auto;
+}
+
+.form-style{
+  font: 95% Arial, Helvetica, sans-serif;
+	max-width: 400px;
+}
+
+table{
+  margin: auto;
+}
+
+form{
+  align-self: center;
+}
